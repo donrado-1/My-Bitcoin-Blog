@@ -57,3 +57,11 @@ https://www.youtube.com/watch?v=PaAjhhkFjU8
 Btw, I need to make a distiction, when I was saying in my original post I was an ossifcationist except for crital bugs etc, I was talking about the bitcoin protocol, not the client side software which obviously needs updates!
 
 As far as protocol stuff, perhaps there's a need for CTV but other than crital bugs after that I'm not seeing anything that's needed. I'm still not fully sold on CTV but if Mechanic is backing it I tend to side with him.
+
+----------------------
+Big Oppers (this could be the last major attack on bitcoin, an attack from the insde (core))
+----------------------
+
+Big oppers must be stopped! More info from Bitcoin Mechanic: https://www.youtube.com/watch?v=JLtmSzeLXOU
+
+We aren't dealing with the big blockers in this attack, it's the big oppers this time, and it made it into the code! Hopefully people will come to their senses and revoke this change before it gets released. More info from Bitcoin University: https://youtu.be/JMpADC8YTB8?si=P8kadmP3Llz5nb8w
