@@ -70,6 +70,8 @@ We aren't dealing with the big blockers in this attack, it's the big oppers this
 Slowly winning the battle
 ----------------------
 
-Ocean's hash rate keeps going up around 15 Eh/s atm. 
-Jack Dorsey's minging rig is getting released soon or is already released (open source, open hardware) with swappable components.
-Bitcoin knots adoption is nearing 20%.
+* Ocean's hash rate keeps going up around 15 Eh/s atm. 
+* Jack Dorsey's minging rig is getting released soon or is already released (open source, open hardware) with swappable components.
+* Bitcoin knots adoption is nearing 20%.
+
+Future looks bright ;)
