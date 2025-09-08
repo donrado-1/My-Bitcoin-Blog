@@ -65,3 +65,11 @@ Big Oppers (this could be the last major attack on bitcoin, an attack from the i
 Big oppers must be stopped! More info from Bitcoin Mechanic: https://www.youtube.com/watch?v=JLtmSzeLXOU
 
 We aren't dealing with the big blockers in this attack, it's the big oppers this time, and it made it into the code! Hopefully people will come to their senses and revoke this change before it gets released. More info from Bitcoin University: https://youtu.be/JMpADC8YTB8?si=P8kadmP3Llz5nb8w
+
+----------------------
+Slowly winning the battle
+----------------------
+
+Ocean's hash rate keeps going up around 15 Eh/s atm. 
+Jack Dorsey's minging rig is getting released soon or is already released (open source, open hardware) with swappable components.
+Bitcoin knots adoption is nearing 20%.
