@@ -74,4 +74,16 @@ Slowly winning the battle
 * Jack Dorsey's minging rig is getting released soon or is already released (open source, open hardware) with swappable components.
 * Bitcoin knots adoption is nearing 20%.
 
-Future looks bright ;)
+Future looks bright!
+
+------
+Ransom Insurance
+------
+
+I've heard that 1 or more copanies are looking ito providing ransom insurance for bitcoiners, I think this is a great idea!
+If these companies can establish credibility, it would alleviate one of my main concerns with self custody.
+
+The other main concern is my heirs barely being able to run a web browser which is something that's trickier to solve. But that's a unique problem for me not others.
+
+In any event, I'm hoping the monetary maximalits (knots supporters) win, because Satoshi created 
+a "peer to peer cash system", not a cloud storage database! I think Knots is around 23% now!
