@@ -83,6 +83,10 @@ Ransom Insurance
 I've heard that 1 or more copanies are looking ito providing ransom insurance for bitcoiners, I think this is a great idea!
 If these companies can establish credibility, it would alleviate one of my main concerns with self custody.
 
+------
+Everyone can choose to do what they wish, but I'm turning off my Knots node today before the Core V30 release and will not be running any node, due to legal and ethical reasons.
+------
+
 The other main concern is my heirs barely being able to run a web browser which is something that's trickier to solve. But that's a unique problem for me not others.
 
 In any event, I'm hoping the monetary maximalits (knots supporters) win, because Satoshi created 
