@@ -107,7 +107,7 @@ The high op return default in the reference client is out in the wild in large n
 
 2) BIP 110
 
-Adopting BIP 110 at this point isn't going to help  because spam/images etc can just be broken up into pieces bypassing the BIP 110 imposed limits. While it would increase the fees/headaches for spammers, I don't think slight fee increase is worth doing a contentious soft fork.
+Adopting BIP 110 at this point isn't going to help  because spam/images etc can just be broken up into pieces bypassing the BIP 110 imposed limits. While it would increase the fees/headaches for spammers, but I don't think slight fee increase is worth doing a contentious soft fork.
 
 In short at this point I don't think really anything can be done. Damage done is damage done and just have to live with it, no sense crying over spilled milk.
 
