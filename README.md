@@ -111,6 +111,6 @@ Adopting BIP 110 at this point isn't going to help  because spam/images etc can 
 
 In short at this point I don't think really anything can be done. Damage done is damage done and just have to live with it, no sense crying over spilled milk.
 
-I think option 1 could still be done as a Bitcoin Core concession or admission that they screwed this up, it wouldn't have any effect at this point.
+I think option 1 could still be done as a Bitcoin Core concession or admission that they screwed this up, but it wouldn't have any effect at this point.
 
 I'm also removing my support for the knots client at this point because the BIP 110 and knots are one and the same at this point.
