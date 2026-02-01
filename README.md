@@ -91,3 +91,26 @@ a "peer to peer cash system", not a cloud storage database! I think Knots is aro
 ------
 Everyone can choose to do what they wish, but I'm turning off my Knots node today before the Core V30 release and will not be running any node, due to legal and ethical reasons.
 ------
+
+
+------
+BIP 110 update and removing support for knots client
+------
+
+I find myself in a unique spot because I still don't support the op return uncapping that was done, but I also don't support BIP 110.
+
+I feel like the damage was done in Core V30 and at this point there's no going back. Two options that I've considered...
+
+1) Reducing the op return back to the original default 83 byte value in the Bitcoin reference client
+
+The high op return default in the reference client is out in the wild in large numbers and at this point. Even if Bitcoin Core reverted the default back to the original 83 bytes, it would literally have zero effect at this point because of the staying power of older versions.
+
+2) BIP 110
+
+Adopting BIP 110 at this point isn't going to help  because spam/images etc can just be broken up into pieces bypassing the BIP 110 imposed limits. While it would increase the fees/headaches for spammers, I don't think slight fee increase is worth doing a contentious soft fork.
+
+In short at this point I don't think really anything can be done. Damage done is damage done and just have to live with it, no sense crying over spilled milk.
+
+I think option 1 could still be done as a Bitcoin Core concession or admission that they screwed this up, it wouldn't have any effect at this point.
+
+I'm also removing my support for the knots client at this point because the BIP 110 and knots are one and the same at this point.
