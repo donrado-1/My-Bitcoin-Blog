@@ -149,3 +149,24 @@ This stuff should of been known from the beginning. The way Bitcoin Core did thi
 Over complicating the Bitcoin reference client lead a lot of this drama in the first place which could of been avoided. 
 
 KISS
+
+------
+Biggest reason I got the call on op return relay limit filter removal wronng
+------
+
+I think the biggest reason why I got this call wrong was because I gave the earlier Bitcoin Core developers TOO much credit. 
+
+If workarounds can always be done, breaking up spam into smaller pieces etc, why was there a data carrier size limit put in to begin with in 2014 when the OP RETURN code was standardized in the Bitcoin Core reference client?
+
+I felt surely there there was a reason for it, but apparently not, which is just pure insanity. Clearly there has to be a reason for them to put it in , in the first place, apparently not. 😮
+
+It's really a lesson that you can never rely on experts or past experts on anything, which is something that I already know, but just assumed that didn't apply it to Bitcoin because I was so sure these guys knew what they were doing. 
+
+Lesson, always come to your own independent conclusion on everything, never relying on experts or past experts to formulate your opinion.
+
+
+------
+Firmly Against BIP 110, Feb 3, 2026
+------
+
+I'm firmly against BIP 110, because fragmented spam isn't any better than unfragmented spam 
