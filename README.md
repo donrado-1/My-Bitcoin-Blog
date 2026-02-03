@@ -170,3 +170,25 @@ Firmly Against BIP 110, Feb 3, 2026
 ------
 
 I'm firmly against BIP 110, because fragmented spam isn't any better than unfragmented spam 
+
+------
+I gave Bitcoin Core too much fucking credit
+------
+
+I was against the V30 release because I gave Bitcoin Core (early devs around 2014) enough fucking credit to not include a future (data carrier size), that's literally completely useless.
+
+I didn't even look into that as a fucking possibility. 
+
+And I got the call wrong because of it, but I'm not going to blame them, I still blame myself for overlooking this but damn, I'm still in shock about this. 😂
+
+------
+There's 3 irony's here
+------
+
+1) In 2014 the Core Devs add a useless feature to the Bitcoin Core client (data carrier size)
+
+2) In 2025 there's a big rebellion because Bitcoin Core tries to remove this useless feature
+
+3) The soft fork chain that is rebelling against the useless feature removal will end up being flooded with spam that this useless feature will not prevent
+
+This Idocracy movie is too much sometimes. But one that that appears to be the most reliable is the most ironic outcome is usually the most likely
