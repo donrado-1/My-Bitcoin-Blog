@@ -129,3 +129,17 @@ I can only say that the way that it was done could of been done differently to s
 I want toThank Tone and Jonny for the last video because it filled in the some missing gaps for me and convincing me that this whole thing over the last 1-2 years is way overblown.
 
 I think if Bitcoin Core could of done a better job with education or doing this release many many years ago to prevent so much backlash.
+
+------
+Final thoughts
+------
+
+I'm not even convinced at this point that the deprecation really matters.
+
+When people say that they are trying to remove as many relay filters as possible it sounds really bad. It just sounds really bad.
+
+But the consensus is the ultimate filter, it's really the only filter that matters. I think this could of been stressed more in the debates.
+
+Relay filters don't matter I don't think, because there will always be work arounds. Except for perhaps relay filters for denial of service attacks etc.
+
+My initial thought on all of this was that fees would eventually price out the spam, but I got sucked into the YouTube drama that convinced me to change my opinion, so I've changed my option back to my original one. Mistake made, lesson learned. Be careful of drama Youtube channels.
