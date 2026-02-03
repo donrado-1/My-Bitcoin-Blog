@@ -143,3 +143,9 @@ But the consensus is the ultimate filter, it's really the only filter that matte
 Relay filters don't matter I don't think, because there will always be work arounds. Except for perhaps relay filters for denial of service attacks etc.
 
 My initial thought on all of this was that fees would eventually price out the spam, but I got sucked into the YouTube drama that convinced me to change my opinion, so I've changed my option back to my original one. Mistake made, lesson learned. Be careful of drama Youtube channels.
+
+This stuff should of been known from the beginning. The way Bitcoin Core did this was backwards. Instead of adding relay filters that weren't needed then removing most of them, they should of never added them in the first place. Only adding the necessary ones. Keep it simple stupid. Just really bad engineering practice.
+
+Over complicating the Bitcoin reference client lead a lot of this drama in the first place which could of been avoided. 
+
+KISS
