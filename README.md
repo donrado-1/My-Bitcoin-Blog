@@ -114,3 +114,18 @@ In short at this point I don't think really anything can be done. Damage done is
 I think option 1 could still be done as a Bitcoin Core concession or admission that they screwed this up, but it wouldn't have any effect at this point.
 
 I'm also removing my support for the knots client at this point because the BIP 110 and knots are one and the same at this point.
+
+
+------
+I'm glad I opposed Core V30, because I played a small role in stopping op return relay filter deprecation, but I also made a mistake
+------
+
+I'm glad I opposed the Core V30 release, because I played a small role in Bitcoin Core walking back their plan to deprecate the op return filter limit.
+
+But I have to admit I made a mistake criticizing the rest of it because I changed my position on this and other than the deprecation, I can't offer any technical arguments why any of the other changes were a bad idea.
+
+I can only say that the way that it was done could of been done differently to stop so many people from overblowing this. Perhaps better education videos or even making this change many many years ago, because the defaults were in place for so long it felt very reckless.
+
+I want toThank Tone and Jonny for the last video because it filled in the some missing gaps for me and convincing me that this whole thing over the last 1-2 years is way overblown.
+
+I think if Bitcoin Core could of done a better job with education or doing this release many many years ago to prevent so much backlash.
