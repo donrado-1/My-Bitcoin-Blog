@@ -192,3 +192,16 @@ There's 3 irony's here
 3) The soft fork chain that is rebelling against the useless feature removal will end up being flooded with spam that this useless feature will not prevent
 
 This Idocracy movie is too much sometimes. But one that that appears to be the most reliable is the most ironic outcome is usually the most likely
+
+
+------
+After rethinking it, I think I got the right call on Core v30
+------
+
+After rethinking the whole Core V30 debacle. I think I got the correct call and here's why.
+
+I called it malware, and that's what it was, from what I understand it deletes entire wallet directories under certain circumstances.
+
+While the reason I stated was wrong, since I was criticizing the data carrier size change, overall I think it was correct just for the wrong reason.
+
+And it makes me feel better about the whole thing, because maybe I helped some OG Bitcoiner from losing their entire stack, so perhaps my time opposing Core V30 wasn't in vein.
