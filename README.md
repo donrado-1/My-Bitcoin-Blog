@@ -205,3 +205,13 @@ I called it malware, and that's what it was, from what I understand it deletes e
 While the reason I stated was wrong, since I was criticizing the data carrier size change, overall I think it was correct just for the wrong reason.
 
 And it makes me feel better about the whole thing, because maybe I helped some OG Bitcoiner from losing their entire stack, so perhaps my time opposing Core V30 wasn't in vein.
+
+------
+After rethinking it, I think I got the right call on Core v30 part 2
+------
+
+In some ways I was actually hoping that I got a call wrong because I don't mind getting a call wrong, and I wanted to show people that I'm ok with that because nobody is perfect.
+
+But I have to look at whole picture objectively, and even though some luck was involved, when I look at the whole picture I got it right. It's not a call that I'm super proud of for sure, and it's correct on the slimest of slim margins, but was correct in my view.
+
+Just like Vin Diesel says in Fast and Furious, it doesn't matter if you win by an inch or a mile, winning is winning.
