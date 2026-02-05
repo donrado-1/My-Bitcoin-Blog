@@ -215,3 +215,9 @@ In some ways I was actually hoping that I got a call wrong because I don't mind 
 But I have to look at whole picture objectively, and even though some luck was involved, when I look at the whole picture I got it right. It's not a call that I'm super proud of for sure, and it's correct on the slimest of slim margins, but was correct in my view.
 
 Just like Vin Diesel says in Fast and Furious, it doesn't matter if you win by an inch or a mile, winning is winning.
+
+------
+Why BIP110 (aka Knots) is a Hostile Attack on Bitcoin - Plan ₿ Forum El Salvador 2026
+------
+
+https://www.youtube.com/watch?v=5scEV0IVYeY
