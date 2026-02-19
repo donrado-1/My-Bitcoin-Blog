@@ -221,3 +221,29 @@ Why BIP110 (aka Knots) is a Hostile Attack on Bitcoin - Plan ₿ Forum El Salvad
 ------
 
 https://www.youtube.com/watch?v=5scEV0IVYeY
+
+------
+DKG
+------
+
+Here are the key advantages of Distributed Key Generation (DKG) (especially in schemes like FROST/ChillDKG) over traditional script multisig in Bitcoin:
+
+Superior privacy — DKG-based threshold signatures (e.g., FROST) aggregate to a single Schnorr signature that looks identical to a normal singlesig Taproot transaction on-chain. Traditional script multisig reveals the threshold (m-of-n) and all public keys in the redeem script, creating a distinct fingerprint that observers can identify and track.
+
+Lower transaction fees — DKG/FROST tx size remains constant (same as singlesig), regardless of quorum size. Script multisig grows with more signers (larger redeem script + multiple signatures in witness data), increasing size and fees — especially noticeable with higher thresholds or frequent/large transactions.
+
+Dealerless setup (no single point of failure in key gen) — DKG generates shares collaboratively across participants/devices without any full private key ever existing on one machine/location. Traditional multisig often generates all keys on one setup device (single point during initial key creation). There are ways to do it without having all keys on one machine (single point of failure) by using a different device for each key etc, so this advantage is somewhat minimal in my view.
+
+No reconstruction during signing — Partial signatures are computed locally with each share; they combine into a valid sig without ever assembling a full key. Traditional multisig partial signing is safe (independent keys), but FROST adds stronger cryptographic protections against certain forgery/rogue-key risks.
+
+Off-chain signer replacement/resharing — Replace lost/compromised signers or refresh shares without on-chain transactions, new addresses, or moving funds. Traditional multisig requires a full re-key + sweep tx (fees, visibility, new wallet) if too many signers are lost.
+
+Better scalability for large quorums — Constant tx size/cost supports high thresholds (e.g., 5-of-7) without fee/privacy penalties. Script multisig scales poorly on-chain.
+
+AI helped me write this, if it wasn't obvious, it's much smarter than me.
+
+------
+Simplicity
+------
+
+I was a feature ossificaitonist but I now believe Simplicity is the path forward to Bitcoin as perhaps the last feature Bitcoin needs.
